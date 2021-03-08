@@ -141,3 +141,4 @@ C:\Users\Campos\Documents\GitHub\hamburgueria-asp\HamburgueriaASP\HamburgueriaAS
 C:\Users\Campos\Documents\GitHub\hamburgueria-asp\HamburgueriaASP\HamburgueriaASP\obj\Debug\net5.0\ref\HamburgueriaASP.dll
 C:\Users\Campos\Documents\GitHub\hamburgueria-asp\HamburgueriaASP\HamburgueriaASP\obj\Debug\net5.0\HamburgueriaASP.pdb
 C:\Users\Campos\Documents\GitHub\hamburgueria-asp\HamburgueriaASP\HamburgueriaASP\obj\Debug\net5.0\HamburgueriaASP.genruntimeconfig.cache
+C:\Users\Campos\Documents\GitHub\hamburgueria-asp\HamburgueriaASP\HamburgueriaASP\obj\Debug\net5.0\Razor\Views\Lanche\List.cshtml.g.cs
